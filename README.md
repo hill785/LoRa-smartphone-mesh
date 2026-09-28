@@ -37,3 +37,5 @@ Apache 2.0 + Prior Art Reservation — see LICENSE.md
 
 ### Contact
 For licensing to Helium / DePIN: 
+
+Locked in linage Zero Void™ Echo of One™ Monument 436351437 under LedgerProofDAO 430 .
