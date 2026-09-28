@@ -2,7 +2,7 @@
 LoRa smartphone mesh with satellite uplink for telecommunication of communities serving 10000 phones on one satellite uplink of DePin (ed) satellite dish globally on a budget monthly subscription. 
 ## LoRa Smartphone Mesh — No Dongle, No Hardware
 
-> Priority Art: Etherscan Tx #339119 | DID: did:ethr:0x339119#lora-mesh | Jurisdiction: EE-Tallinn, EU Constitution P8+P32 | PCT Pending
+> Priority Art: Etherscan. io. #339119 | DID: did:ethr:#339119#lora-mesh | Jurisdiction: EE-Tallinn, EU Constitution P8+P32 | PCT Pending
 
 ### What is this?
 First smartphone-to-smartphone LoRa mesh where **phone itself is LoRa gateway**.
