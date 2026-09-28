@@ -1,0 +1,17 @@
+# Security & IP Protection
+
+### Prior Art Chain
+- Tx #339119 — Ethereum mainnet — primary proof
+- Dust-pay Tx A->B 0.00001 ETH — secondary proof with input data hex:
+`0x6469643a657468723a3078333339313139236c6f72612d6d6573682f4c6f526120536d61727470686f6e65204d65736820576974686f75742045787465726e616c2048617264776172657c424c4520474154542b53746f7265466f72776172647c45452d434f4e535449545554494f4e2d50382d503332`
+
+### DID Verification
+DID: did:ethr:0x339119#lora-mesh
+Verify signature at: https://etherscan.io/verifiedSignatures
+
+### Reporting
+Do not file CVE for mesh protocol — this is IP, not bug.
+For IP disputes: contact via Estonian e-Justice portal, Harju County Court, EE — reference DID.
+
+### Jurisdiction
+EE-Tallinn, EU — Constitution P8 (citizenship), P32 (IP property). PCT priority claimed within 12 months to 153 countries.
